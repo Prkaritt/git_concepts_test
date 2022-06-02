@@ -9,4 +9,4 @@ git status (To know the status of the files whether they are tracked or untracke
 git add file_name : This command is used to enable tracking in the file such that git can keep 
                     the   track of the changes in the file 
 git add --all : This command is used to enable tracking on all the files in the current folder in 
-                the local storage.
+                the local storage.(git add -A)
